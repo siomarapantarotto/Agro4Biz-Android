@@ -5,11 +5,11 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Screenshots](#screenshots)
-* [How to get involved](#how-to-get-involved)
+* [Contact us](#contact-us)
 
 
 ## General info
-An android/java app for agribusiness.
+This application offers to the Agribusiness innovative solutions that guarantee to those involved in the business information and control in the palm of their hands.
 
 
 ## Technologies
@@ -46,8 +46,8 @@ An android/java app for agribusiness.
 <kbd><img src="https://user-images.githubusercontent.com/5893219/147389267-fd70b1c0-e21f-4403-83bc-8590cd2f572b.png" width="150" height="300"></kbd>
 
 
-## How to get involved
-Whether you have roots or passion for agribusiness and would like to know and participate in making this application reach the market, or if you have your own agribusiness and need to control it, having solutions in the palm of your hands, please contact us.
+## Contact us
+Whether you have roots, passion or your own agribusiness and would like to know more about this product, please contact us.
 Thanks!
 
 <!-- FOOTER (Author / Visit My Online Resume / Download My PDF Resume) -->
