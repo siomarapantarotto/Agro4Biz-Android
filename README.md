@@ -1,5 +1,4 @@
 # Agro4Biz
-An android/java app for agribusiness seeking sponsorship or partnership.
 
 
 ## Table of contents
@@ -10,7 +9,7 @@ An android/java app for agribusiness seeking sponsorship or partnership.
 
 
 ## General info
-This repo works like a lab. It is a quick reference for the basic functionality of an android component already used in some application or in a simple exercise.
+An android/java app for agribusiness.
 
 
 ## Technologies
@@ -48,8 +47,7 @@ This repo works like a lab. It is a quick reference for the basic functionality 
 
 
 ## How to get involved
-If you have implemented more sophisticated functionalities and feel like sharing them, please let me know.
-
+Whether you have roots or passion for agribusiness and would like to know and participate in making this application reach the market, or if you have your own agribusiness and need to control it, having solutions in the palm of your hands, please contact us.
 Thanks!
 
 <!-- FOOTER (Author / Visit My Online Resume / Download My PDF Resume) -->
