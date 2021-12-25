@@ -1,15 +1,11 @@
 # Agro4Biz
 
+This application offers to the Agribusiness innovative solutions that guarantee to those involved in the business information and control in the palm of their hands.
 
 ## Table of contents
-* [General info](#general-info)
 * [Technologies](#technologies)
 * [Screenshots](#screenshots)
 * [Contact us](#contact-us)
-
-
-## General info
-This application offers to the Agribusiness innovative solutions that guarantee to those involved in the business information and control in the palm of their hands.
 
 
 ## Technologies
